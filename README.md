@@ -18,7 +18,7 @@ _(Final Project for DATA 1030 - Hands-on Data Science @ Brown University Fall 20
 - As a final project for DATA1030, this project builds **machine learning pipelines** to **predict heart failure patients’ survival**, using a range of machine learning models.
 - This project also **identifies** the **most predictive features** from the medical record data, using both global and local feature importances.
 - **Why?** Identifying key risk factors and building classification models to accurately predict survival may ultimately assist clinicians in extending and improving the lives of people with heart failure.
-- A **key finding** was that the top 3 most predictive features (serum creatinine, ejection fraction, and age) yield better survival predictions than using all medical features combined (as evaluated using Matthew’s correlation coefficient which prioritizes both good positive and negative case predictions suitably for high stake medical misclassifications and imbalanced data)
+- A **key finding** was that the top 3 most predictive features (serum creatinine, ejection fraction, and age) yield better survival predictions than using all medical features combined (as evaluated using Matthew’s correlation coefficient which prioritizes both good positive and negative case predictions suitably for high stake medical misclassifications and imbalanced data).
 
 ## Methods Used
 
