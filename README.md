@@ -1,5 +1,5 @@
 # Predicting Heart Failure Survival 
-This project predicts heart failure patients’ survival and identifies top risk factors from medical record data.\
+This project predicts heart failure patients’ survival and identifies the most predictive features from medical record data.\
 _(Final Project for DATA 1030 - Hands-on Data Science @ Brown University Fall 2020)_
 
 ## Table of Contents
