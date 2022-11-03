@@ -3,12 +3,12 @@ This project predicts heart failure patients’ survival and identifies the most
 _(Final Project for DATA 1030 - Hands-on Data Science @ Brown University Fall 2020)_
 
 ## Table of Contents
-* [General Info](#general-information)
-* [Methods](#methods)
+* [Project Description](#project-description)
+* [Methods](#methods-used)
 * [Technologies Used](#technologies-used)
 * [Screenshots](#screenshots)
 * [Setup](#setup)
-* [Deliverables](#featured-deliverables)
+* [Deliverables](#deliverables)
 * [Contributing Members](#contributing-members)
 * [Acknowledgements](#acknowledgements)
 
